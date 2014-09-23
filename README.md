@@ -45,5 +45,5 @@ are found.
 
 The `menu` properties are Parse references to other objects. Those references
 get created by a search that runs against the `Menu` class for the properties
-listed. References only get created if a _single_ matching object is found,
-otherwise an error will be thrown.
+listed (`name`.) References only get created if a _single_ matching object is
+found, otherwise an error will be thrown.
