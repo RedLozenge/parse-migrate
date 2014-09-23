@@ -1,7 +1,7 @@
 parse-migrate
 =============
 
-Exmaple Migration File
+Example Migration File
 ----------------------
 
 ```
